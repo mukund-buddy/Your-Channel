@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ManishBhauu - Gaming</title>
+    <meta name="description" content="Gaming website">
+    <link rel="stylesheet" href="assets/css/base.css?v=2">
+    <link rel="stylesheet" href="assets/css/nav.css?v=2">
+    <link rel="stylesheet" href="assets/css/footer.css?v=2">
+    <link rel="stylesheet" href="assets/css/pages.css?v=2">
+</head>
+<body>
+    <div id="loader"><div class="loader-spinner"></div></div>
+
+    <!-- HEADER - components/header.html se load hoga + settings.json se data -->
+    <div id="header"></div>
+
+    <!-- HERO SECTION -->
+    <section class="hero reveal" id="home">
+        <div class="container">
+            <div class="hero-content" id="heroContent">
+                <!-- settings.json se inject hoga -->
+            </div>
+            <div class="hero-stats" id="heroStats"></div>
+        </div>
+    </section>
+
+    <!-- HIGHLIGHTS -->
+    <section class="highlights-section reveal">
+        <div class="container">
+            <div class="highlights-grid" id="highlightsGrid"></div>
+        </div>
+    </section>
+
+    <!-- CONTENT CATEGORIES -->
+    <section class="categories-section reveal" id="content">
+        <div class="container">
+            <h2 class="section-title">Content Categories</h2>
+            <p class="section-subtitle">What you'll find on the channel</p>
+            <div class="categories-grid" id="categoriesGrid"></div>
+        </div>
+    </section>
+
+    <!-- FEATURED VIDEO -->
+    <section class="featured-section reveal">
+        <div class="container">
+            <h2 class="section-title">Latest Video</h2>
+            <p class="section-subtitle">Most recent upload</p>
+            <div id="featuredVideo"></div>
+        </div>
+    </section>
+
+    <!-- BIG STATS -->
+    <section class="stats-section">
+        <div class="container">
+            <div class="stats-grid" id="statsGrid"></div>
+        </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="contact-section" id="contactSection"></section>
+
+    <!-- FOOTER - components/footer.html se load hoga -->
+    <div id="footer"></div>
+
+    <script src="assets/data/s.js?v=2"></script>
+    <script src="assets/data/v.js?v=2"></script>
+    <script src="assets/data/r.js?v=2"></script>
+    <script src="assets/js/loader.js?v=3"></script>
+    <script src="assets/js/home.js?v=2"></script>
+    <script src="assets/js/animations.js?v=1"></script>
+</body>
+</html>
