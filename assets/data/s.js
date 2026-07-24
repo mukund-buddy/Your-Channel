@@ -1,13 +1,13 @@
 window.__ngp = window.__ngp || {};
 window.__ngp.settings = {
   "channel": {
-    "name": "YourChannelName",
+    "name": "Your Channel",
     "tagline": "Gaming Content Creator",
-    "description": "Epic gameplay, tutorials & entertainment. Join the adventure!",
-    "game": "Minecraft",
+    "description": "Epic gameplay, tutorials & entertainment. Join the adventure with us!",
+    "game": "Minecraft Bedrock",
     "gameIcon": "&#x26E8;",
     "aboutTitle": "Who is behind the channel?",
-    "aboutDescription1": "A passionate content creator building a community one video at a time. From intense clutches to helpful tutorials, there's something for everyone.",
+    "aboutDescription1": "A passionate content creator building a community one video at a time. From intense clutches to helpful tutorials, there's something for everyone.Fan of technoblade.",
     "aboutDescription2": "The channel features gaming content including tutorials, gameplay highlights, and entertainment for the whole community."
   },
   "creator": {
