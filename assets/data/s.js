@@ -1,89 +1,183 @@
 window.__ngp = window.__ngp || {};
+
 window.__ngp.settings = {
   "channel": {
-    "name": "Your Channel",
-    "tagline": "Gaming Content Creator",
-    "description": "Epic gameplay, tutorials & entertainment. Join the adventure with us!",
-    "game": "Minecraft Bedrock",
-    "gameIcon": "&#x26E8;",
-    "aboutTitle": "Who is behind the channel?",
-    "aboutDescription1": "A passionate content creator building a community one video at a time. From intense clutches to helpful tutorials, there's something for everyone.Fan of technoblade.",
-    "aboutDescription2": "The channel features gaming content including tutorials, gameplay highlights, and entertainment for the whole community."
+    "name": "Manishbhauuu",
+    "tagline": "Every Match. One Mission. Victory.",
+    "description": "Welcome to Manishbhauuu! Here you'll find exciting BGMI battles, Minecraft adventures, gameplay highlights, tips, challenges, and entertaining gaming content. Join the journey, improve your skills, and enjoy every match with us!",
+    "game": "Mixed Gaming",
+    "gameIcon": "🎮",
+    "aboutTitle": "Meet the Creator",
+    "aboutDescription1": "I'm Manishbhauuu, a passionate gaming creator who enjoys playing BGMI and Minecraft. My goal is to create entertaining gameplay, exciting challenges, helpful tips, and memorable moments for every viewer. Every upload is made with the aim of improving, entertaining, and building a strong gaming community.",
+    "aboutDescription2": "Whether it's intense BGMI matches, Minecraft adventures, or fun gaming moments, I always aim to deliver quality content that keeps viewers entertained. Thank you for being part of this journey—your support motivates me to keep creating better videos every day."
   },
+
   "creator": {
     "title": "About the Creator",
-    "message": "Hey everyone! Thanks for stopping by. This website is a hub for all my content, resources, and community connections. Let's build something awesome together!",
+    "message": "Hey everyone! I'm Manishbhauuu. Welcome to my gaming world! Here you'll find BGMI battles, Minecraft adventures, fun challenges, and entertaining gameplay. Your support means everything to me, so let's grow together and create an amazing gaming community.",
     "subtitle": "Join the family and stay connected across all platforms."
   },
+
   "aboutStory": [
-    "The journey started with a single video and a dream. Every milestone was achieved because of the amazing community that supports the content.",
-    "Today, the focus remains on bringing the best gaming content - from epic moments to helpful tutorials and entertaining multiplayer sessions."
+    "My journey started with a passion for gaming and creating content that people genuinely enjoy. Every upload represents dedication, improvement, and the desire to entertain viewers.",
+    "Today, the mission continues with BGMI, Minecraft, and other exciting games while building a positive gaming community where everyone is welcome."
   ],
+
   "logo": {
-    "type": "text",
-    "emoji": "&#x1F3AE;",
-    "text": "Your<span class='highlight'>Channel</span>",
-    "imagePath": ""
+    "type": "image",
+    "emoji": "",
+    "text": "",
+    "imagePath": "assets/images/logo.png"
   },
+
   "aboutImage": {
-    "type": "emoji",
-    "emoji": "&#x1F3AE;",
-    "imagePath": ""
+    "type": "image",
+    "emoji": "",
+    "imagePath": "assets/images/about-avatar.png"
   },
+
   "stats": [
-    { "number": "---", "label": "Subscribers" },
-    { "number": "---", "label": "Videos" },
-    { "number": "---", "label": "Total Views" },
-    { "number": "---", "label": "Ranking" }
+    {
+      "number": "30K+",
+      "label": "Subscribers"
+    },
+    {
+      "number": "75+",
+      "label": "Videos"
+    },
+    {
+      "number": "7,645,900+",
+      "label": "Total Views"
+    },
+    {
+      "number": "Gaming Creator",
+      "label": "Achievement"
+    }
   ],
+
   "highlights": [
-    { "icon": "&#x2694;", "title": "PvP Specialist", "text": "Mastering every battle with skill and strategy" },
-    { "icon": "&#x1F3D7;", "title": "Content Creator", "text": "Bringing the best gaming content regularly" },
-    { "icon": "&#x1F4F1;", "title": "Mobile Gaming", "text": "Pro-level gameplay on mobile devices" },
-    { "icon": "&#x1F3C6;", "title": "Growing Community", "text": "Building a family of gaming lovers" }
+    {
+      "icon": "🎯",
+      "title": "BGMI Pro",
+      "text": "Competitive gameplay and clutch moments."
+    },
+    {
+      "icon": "🔥",
+      "title": "Enemy Killer",
+      "text": "Enemies pray they never have to face me on the battlefield."
+    },
+    {
+      "icon": "🎥",
+      "title": "Content Creator",
+      "text": "Regular gaming videos and entertaining content."
+    },
+    {
+      "icon": "🤝",
+      "title": "Gaming Community",
+      "text": "Building a positive and growing gaming family."
+    }
   ],
   "bigStats": [
-    { "number": "---", "label": "Subscribers" },
-    { "number": "---", "label": "Videos" },
-    { "number": "---", "label": "Views" }
+    { "number": "30K+", "label": "Subscribers" },
+    { "number": "75+", "label": "Videos" },
+    { "number": "7,645,900+", "label": "Views" }
   ],
+
   "categories": [
-    { "icon": "&#x2694;", "title": "Gameplay", "text": "Intense battles and pro-level gameplay.", "tag": "Popular" },
-    { "icon": "&#x1F3D7;", "title": "Tutorials", "text": "Step-by-step guides for every skill level.", "tag": "Tutorial" },
-    { "icon": "&#x1F5A5;", "title": "Reviews", "text": "Honest reviews of games and tools.", "tag": "Reviews" },
-    { "icon": "&#x1F3B5;", "title": "Music", "text": "Background music for your content.", "tag": "Resources" },
-    { "icon": "&#x1F4F1;", "title": "Mobile", "text": "Mobile gaming at its best.", "tag": "Mobile" },
-    { "icon": "&#x1F3AC;", "title": "Entertainment", "text": "Funny moments and epic wins.", "tag": "Entertainment" }
+    {
+      "icon": "🎯",
+      "title": "BGMI",
+      "text": "Competitive gameplay, ranked pushes and clutch moments.",
+      "tag": "Popular"
+    },
+    {
+      "icon": "⛏️",
+      "title": "Minecraft",
+      "text": "Survival adventures, challenges and fun gameplay.",
+      "tag": "Gaming"
+    },
+    {
+      "icon": "🎥",
+      "title": "Gameplay",
+      "text": "Action-packed gaming videos across multiple games.",
+      "tag": "Entertainment"
+    },
+    {
+      "icon": "🔥",
+      "title": "Highlights",
+      "text": "Best kills, funny moments and epic victories.",
+      "tag": "Trending"
+    },
+    {
+      "icon": "📱",
+      "title": "Mobile Gaming",
+      "text": "Gaming content optimized for mobile players.",
+      "tag": "Mobile"
+    },
+    {
+      "icon": "🎮",
+      "title": "Mixed Gaming",
+      "text": "BGMI, Minecraft and much more.",
+      "tag": "Creator"
+    }
   ],
+
   "navLinks": [
     { "label": "Home", "url": "index.html" },
     { "label": "Videos", "url": "videos.html" },
     { "label": "Resources", "url": "resources.html" },
     { "label": "About", "url": "about.html" }
   ],
+
   "socialLinks": [
-    { "platform": "YouTube", "url": "https://youtube.com/@yourchannel", "icon": "", "label": "Subscribe", "stat": "--- Subscribers" },
-    { "platform": "Instagram", "url": "https://instagram.com/yourhandle", "icon": "", "label": "Follow", "stat": "@yourhandle" },
-    { "platform": "Discord", "url": "", "icon": "", "label": "Join", "stat": "Discord Username" },
-    { "platform": "Backup Channel", "url": "", "icon": "", "label": "Subscribe", "stat": "@backupchannel" }
+    {
+      "platform": "YouTube",
+      "url": "https://youtube.com/@manishbhauuu?si=UBxamr6C5e58GTsl",
+      "icon": "",
+      "label": "Subscribe",
+      "stat": "30K+ Subscribers"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/_manishbhauu?igsh=MTFiaDg2N3Z4ZmZ1cQ==",
+      "icon": "",
+      "label": "Follow",
+      "stat": "@_manishbhauu"
+    },
+    {
+      "platform": "Discord",
+      "url": "",
+      "icon": "",
+      "label": "",
+      "stat": ""
+    },
+    {
+      "platform": "Backup Channel",
+      "url": "",
+      "icon": "",
+      "label": "",
+      "stat": ""
+    }
   ],
+
   "contact": {
     "businessEmail": "",
     "supportEmail": "",
     "businessNote": "(For sponsorship & collaboration inquiries)",
     "supportNote": "(For copyright issues & content removal)"
   },
+
   "footer": {
-    "description": "Gaming content creator. Gameplay. Tutorials. Entertainment.",
-    "copyright": "© 2026 YourChannelName",
+    "description": "Mixed Gaming • BGMI • Minecraft • Entertainment",
+    "copyright": "© 2026 Manishbhauuu",
     "columns": [
       {
         "title": "Content",
         "links": [
-          { "label": "Gameplay", "url": "videos.html" },
-          { "label": "Tutorials", "url": "videos.html" },
+          { "label": "BGMI", "url": "videos.html" },
+          { "label": "Minecraft", "url": "videos.html" },
           { "label": "Resources", "url": "resources.html" },
-          { "label": "Mobile Gaming", "url": "videos.html" }
+          { "label": "Gameplay", "url": "videos.html" }
         ]
       },
       {
@@ -97,10 +191,11 @@ window.__ngp.settings = {
       }
     ]
   },
+
   "theme": {
-    "primaryColor": "#00ff88",
-    "primaryDark": "#00cc6a",
-    "accentColor": "#a855f7",
-    "bgColor": "#050510"
+    "primaryColor": "#E63946",
+    "primaryDark": "#B71C1C",
+    "accentColor": "#F4C430",
+    "bgColor": "#0B0F1A"
   }
 };
